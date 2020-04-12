@@ -1,3 +1,2 @@
-{
-aaa
-\rtf1}
+aaaa
+bbb
